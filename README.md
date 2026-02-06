@@ -11,22 +11,6 @@ O objetivo é simular um **Copiloto de Dados e Operações** capaz de responder 
 
 ---
 
-# 🧭 Arquitetura do Projeto
-
-            USER QUERY
-                 │
-                 ▼
-           🤖 Agent ReAct
-                 │
- ┌───────────────┼───────────────┐
- │               │               │
- ▼               ▼               ▼
-📚 RAG 🌐 Web Search 🧮 Python
-Documentos DuckDuckGo REPL
-Internos Benchmarks Cálculos
-
----
-
 # 🎯 Objetivo
 
 Construir um agente capaz de responder perguntas como:
@@ -256,7 +240,6 @@ Representa uma aplicação prática de Agents para cenários de negócio e dados
 # 👨‍💻 Autor
 
 Projeto desenvolvido para fins de estudo e portfólio em IA, Dados e LLM Engineering.
-Me siga, em:https://www.linkedin.com/in/lucas-diagone-691285104/
 
 ---
 
