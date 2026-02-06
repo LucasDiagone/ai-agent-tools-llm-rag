@@ -1,0 +1,19 @@
+DEFINIÇÕES DE KPIs DE NEGÓCIO
+
+Ticket Médio:
+Receita total ÷ Número de pedidos.
+
+LTV (Lifetime Value):
+Receita média por cliente ao longo do tempo.
+
+CAC (Custo de Aquisição):
+Investimento em marketing ÷ novos clientes.
+
+Churn Rate:
+Clientes perdidos ÷ base total.
+
+SLA:
+% de tickets respondidos dentro do prazo.
+
+NPS:
+Índice de satisfação do cliente.

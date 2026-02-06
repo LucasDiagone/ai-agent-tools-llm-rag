@@ -1,0 +1,25 @@
+FAQ — SUPORTE AO CLIENTE
+
+Problemas mais comuns:
+
+1) Reset de senha
+Solução: enviar link automático de redefinição.
+
+2) Falha de pagamento
+Solução: atualizar cartão ou gerar boleto.
+
+3) Lentidão no sistema
+Solução: limpar cache e verificar status do servidor.
+
+4) Erro de login
+Solução: redefinir senha ou validar e-mail.
+
+5) Cancelamento
+Solução: direcionar para equipe de retenção.
+
+Prioridades:
+
+- Crítica: sistema fora do ar
+- Alta: bloqueio de uso
+- Média: erro recorrente
+- Baixa: dúvidas gerais

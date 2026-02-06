@@ -1,0 +1,30 @@
+REGRAS DE CHURN — DEFINIÇÃO DE CLIENTES PERDIDOS
+
+Definição:
+Um cliente é considerado churn quando cancela o serviço ou fica inativo por mais de 60 dias.
+
+Classificações:
+
+- Churn voluntário: cancelamento solicitado
+- Churn involuntário: falha de pagamento
+- Churn por inatividade: sem uso por 60+ dias
+
+Principais causas identificadas:
+
+- Preço elevado
+- Baixo uso do produto
+- Problemas de suporte
+- Concorrência
+
+Métricas importantes:
+
+- Taxa de churn mensal
+- Tempo médio até churn
+- Receita perdida
+- Segmento com maior churn
+
+Benchmark SaaS:
+
+- Churn saudável: 3% – 5% ao mês
+- Alerta: acima de 7%
+- Crítico: acima de 10%
